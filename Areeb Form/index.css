@@ -7,10 +7,11 @@
 .form-control {
   /* margin-bottom: 1%; */
   background-color:rgb(255, 153, 0) !important ;
+ 
  }
  .form-control input{
     display: block;
-    width: 100%;
+    width: 98.5%;
     background-color: rgb(255, 255, 255);
     border: 2px solid white;
     border-radius: 5px;
@@ -28,7 +29,9 @@ background-color: rgb(255, 153, 0);
    background-image: url(./img/R.gif) !important;
    background-position: center;
    background-size: cover;
+   
  }
  .img{
    width: 100%;
+  
  }
